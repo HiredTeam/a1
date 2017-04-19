@@ -1,7 +1,7 @@
 import random
 from datetime import *
 
-file = open("c:\Temp\Snumbers.txt", 'w+')
+file = open("c:\Temp\Tnumbers.txt", 'w+')
 poem = "I never saw a man who looked\n"
 i=1
 
