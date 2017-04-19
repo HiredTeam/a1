@@ -1,10 +1,9 @@
 import random
 from datetime import *
 
-file = open(r"c:\Temp\numbers.txt", 'w+')
+file = open(r"c:\Temp\numbers.txt", "w+")
 poem = "I never saw a man who looked\n"
 i = 1
-
 while i <= 1000:
     numbs = random.sample(range(1, 100), 10)
     sum_stroki = 0
